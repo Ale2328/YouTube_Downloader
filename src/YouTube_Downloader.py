@@ -11,7 +11,7 @@ from pytube import YouTube
 def download_video():
     try:
         
-        directory = "../video"
+        directory = "./video"
         url = textbox.get()
         yt = YouTube(url)
         yt.streams.get_highest_resolution().download(directory)
