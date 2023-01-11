@@ -1,5 +1,7 @@
 # YouTube_Downloader
 ---
+![image](https://user-images.githubusercontent.com/78653548/211928343-6a14af51-fd8d-4fa2-886e-7c4c53f9d92b.png)
+
 YouTube Downloader is a simple program that allows you  
 to download videos and audio from youtube without advertising   
 and without going through online sites that are often slow or unreliable  
