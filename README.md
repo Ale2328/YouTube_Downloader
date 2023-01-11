@@ -6,7 +6,11 @@ and without going through online sites that are often slow or unreliable
 
 # How to use?
 ---
-1-Download the zip file  
+### 1-Download the zip file  
+![image](https://user-images.githubusercontent.com/78653548/211924961-73024375-6f30-4ba9-99ee-92fa40f8005d.png)
+
+
+
 2-Extract all the file  
 3-Copy the YouTube_Downloader folder where you want  
 4-Open the folder and move the shortcut on your Desktop  
