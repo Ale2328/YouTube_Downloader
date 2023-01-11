@@ -6,6 +6,9 @@ YouTube Downloader is a simple program that allows you
 to download videos and audio from youtube without advertising   
 and without going through online sites that are often slow or unreliable  
 
+# OpenSource Code
+https://github.com/Ale2328/YouTube_Downloader/blob/main/src/YouTube_Downloader.py
+
 # How to use?
 ---
 1-Download the zip file  
